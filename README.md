@@ -14,8 +14,6 @@ Doctor Management: Admin can approve/reject doctor registrations and manage user
 
 Appointment Tracking: View appointment history, booking status, and patient records.
 
-Responsive Design: Fully optimized for desktop and mobile devices.
-
 Modern UI/UX: Clean, intuitive, and user-friendly interface.
 
 ## Technologies Used
